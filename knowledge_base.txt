@@ -1,0 +1,5 @@
+
+LangChain is an open-source framework designed to help developers build applications powered by large language models.
+It provides tools for chaining prompts, managing memory, and integrating with external data sources.
+Python is a versatile programming language used widely in data science, AI, web development, and more.
+Generative AI refers to a class of artificial intelligence models capable of generating text, images, or other data types based on input prompts.

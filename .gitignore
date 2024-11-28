@@ -1,0 +1,6 @@
+.env
+openai_chatbot.ipynb
+huggingface_chatbot.ipynb
+uploads
+default_knowledge_base.txt
+typed_knowledge_base.txt
