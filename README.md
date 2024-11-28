@@ -36,7 +36,7 @@ In contrast:
 ## **Setup Instructions**
 
 ### **1. Install Dependencies**
-Ensure you have Python 3.10+ installed:
+Ensure you have Python 3.10+ installed. Install the required libraries:
 ```bash
 pip install flask
 pip install python-dotenv langchain langchain-cohere language-coomunity faiss-cpu cohere
